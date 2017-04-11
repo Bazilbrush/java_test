@@ -2,7 +2,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.HashMap;
 import java.util.Scanner;
-
+/*here's the functional code for the cinema price ticket calculator, finctional programming style. OOP to come*/
 
 public class Cinema_calculator_simple{
 	
