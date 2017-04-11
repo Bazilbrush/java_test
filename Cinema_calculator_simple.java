@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Scanner;
 
 
-public class calc{
+public class Cinema_calculator_simple{
 	
 	public static void main(String args[]) {
 		 HashMap<String, Integer> ticket = new HashMap<String, Integer>();
