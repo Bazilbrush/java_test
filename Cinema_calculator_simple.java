@@ -9,7 +9,7 @@ public class Cinema_calculator_simple{
 	public static void main(String args[]) {
 		 HashMap<String, Integer> ticket = new HashMap<String, Integer>();
 		 
-		 	ticket.put("Standard", 8);
+		 	ticket.put("Standard", 10);
 		 	ticket.put("OAP", 6);
 		 	ticket.put("Student", 6);
 		 	ticket.put("Child",  4);
